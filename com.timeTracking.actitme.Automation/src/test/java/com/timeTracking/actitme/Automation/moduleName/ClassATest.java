@@ -10,6 +10,8 @@ public class ClassATest extends BaseClass {
 	public void demo1Test() {
 		System.out.println("Job 1");
 		System.out.println("Job 2");
+		System.out.println("Job 3");
+
 
 	}
 	
